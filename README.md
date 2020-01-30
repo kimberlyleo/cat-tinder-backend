@@ -4,7 +4,7 @@
 In progress  
 Partial test coverage with RSPEC  
 Connected with [Cat-Tinder-Frontend](https://github.com/kimberlyleo/cat-tinder-frontend) to make a full stack app  
-Class project to practice db creation, creating a single-page app with routes, and fetch commands  
+Class project to practice db creation, creating a single-page app with routes, and full stack TDD   
 
 ![Code](https://user-images.githubusercontent.com/57583457/73414440-bcb11800-42c3-11ea-9a86-9239857e613a.png "Some info")  
 
