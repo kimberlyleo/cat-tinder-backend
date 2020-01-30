@@ -3,7 +3,7 @@
 
 In progress  
 Partial test coverage with RSPEC  
-Connected with [Cat-Tinder-Frontend](https://github.com/kimberlyleo/cat-tinder-frontend target="_blank") to make a full stack app  
+Connected with [Cat-Tinder-Frontend](https://github.com/kimberlyleo/cat-tinder-frontend) to make a full stack app  
 Class project to practice db creation, creating a single-page app with routes, and full stack TDD   
 
 ![Code-Validations](https://user-images.githubusercontent.com/57583457/73414440-bcb11800-42c3-11ea-9a86-9239857e613a.png "Validations")  
@@ -12,7 +12,10 @@ Class project to practice db creation, creating a single-page app with routes, a
 
 ![Code-Controller Methods with requirements](https://user-images.githubusercontent.com/57583457/73414501-da7e7d00-42c3-11ea-98f0-423be814b5fc.png "Controller Methods & requirements")  
 
-![code](https://user-images.githubusercontent.com/57583457/73414834-e585dd00-42c4-11ea-9330-3f5c2148f559.png "some info")  
+![code](https://user-images.githubusercontent.com/57583457/73414834-e585dd00-42c4-11ea-9330-3f5c2148f559.png "some info") 
+
+![code](https://user-images.githubusercontent.com/57583457/73415053-92f8f080-42c5-11ea-93e7-5b6036b381d5.png "some info")
+
 
 
 Mob programmed with @mulderkristen and @maryredlinger  
