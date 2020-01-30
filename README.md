@@ -1,24 +1,26 @@
-# README
+## Cat Tinder Backend
+#### Built with Ruby on Rails  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In progress  
+Partial test coverage with RSPEC  
+Connected with [Cat-Tinder-Frontend](https://github.com/kimberlyleo/cat-tinder-frontend) to make a full stack app  
+Class project to practice db creation, creating a single-page app with routes, and fetch commands  
 
-Things you may want to cover:
+![Code](https://user-images.githubusercontent.com/57583457/73414440-bcb11800-42c3-11ea-9a86-9239857e613a.png "Some info")  
 
-* Ruby version
+![Code](https://user-images.githubusercontent.com/57583457/73414445-bfac0880-42c3-11ea-9335-60787ae84e66.png "Some info")  
 
-* System dependencies
+![Code](https://user-images.githubusercontent.com/57583457/73414501-da7e7d00-42c3-11ea-98f0-423be814b5fc.png "Some info")  
 
-* Configuration
+![code](https://user-images.githubusercontent.com/57583457/73414501-da7e7d00-42c3-11ea-98f0-423be814b5fc.png "some info")
 
-* Database creation
 
-* Database initialization
+Mob programmed with @mulderkristen and @maryredlinger  
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
